@@ -1,5 +1,4 @@
-Content-Based-Movie-Recommendation-System
-Content Based Movie Recommendations System using machine Learning
+#Content-Based-Movie-Recommendation-System
 
 Wondered how Google comes up with movies that are similar to the ones you like? After reading this post you will be able to build one such recommendation system for yourself.
 
